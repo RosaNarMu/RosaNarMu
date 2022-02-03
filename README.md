@@ -37,12 +37,12 @@ Nice to meet you! How are you? I really hope you are having a fantastic day. Her
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Symfony](https://badgen.net/badge/sf/Symfony/:grey?icon=none)
+![Symfony](https://img.shields.io/badge/♬-Symfony-green)
 
 #### ⮞ And more!
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Wordpress](https://badgen.net/badge/Wp/Wordpress/:blue)
+![Wordpress](https://img.shields.io/badge/ⓦ-Wordpress-blue)
 
 ## :chart_with_upwards_trend: Stats
 
