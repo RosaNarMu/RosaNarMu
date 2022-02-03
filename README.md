@@ -1,4 +1,4 @@
-# <b> Hi there, I'm Rosa! </b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# <b> Hi there, I'm Rosa! </b>  <img src="https://raw.githubusercontent.com/RosaNarMu/Pruebas/main/discord-discordgifemoji.gif?token=GHSAT0AAAAAABPCPC3YRF5WFBBD4NZ2NVY4YP4HIMA" width="50">
 
 Nice to meet you! How are you? I really hope you are having a fantastic day. Here, help yourself a cookie while you are reading this! :cookie:
 
