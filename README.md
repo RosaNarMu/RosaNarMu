@@ -47,6 +47,9 @@ Nice to meet you! How are you? I really hope you are having a fantastic day. Her
 ## :chart_with_upwards_trend: Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaNarMu&layout=compact)](https://github.com/RosaNarMu/github-readme-stats)
+
+[![Profile badge](https://www.codewars.com/users/RosaNarMu/badges/large)](https://www.codewars.com/users/RosaNarMu)
+
 ![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaNarMu&show_icons=true&theme=nightowl)
 
 
