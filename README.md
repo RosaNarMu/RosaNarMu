@@ -4,11 +4,9 @@ Nice to meet you! How are you? I really hope you are having a fantastic day. Her
 
 ⮞ :smile: Pronouns: She/her
 
-⮞ :notebook: I’m currently working on a short stories full-stack project
+⮞ :computer: I'm working as a Full Stack Developer
 
-⮞ :computer: I'm also looking for my first job as a front-end developer!
-
-⮞ 🌱 I’m currently learning React, TypeScript, Angular, PHP and Symfony.
+⮞ 🌱 I’m currently learning Java, Springboot, C# and .net.
 
 ⮞ :ear: My fist language is Spanish, but I can also speak English, French and Korean. 멋있죠? Estudiar idiomas es una de mis aficiones.
 
@@ -38,6 +36,9 @@ Nice to meet you! How are you? I really hope you are having a fantastic day. Her
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Symfony](https://img.shields.io/badge/♬-Symfony-green)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 #### ⮞ And more!
 
